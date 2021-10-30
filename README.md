@@ -1,4 +1,4 @@
-# MemoryManagement_C
+# MemoryManagement Explanation in C.
 
 **Hexidecimal Conversion**
 ![Hex Conversion](https://github.com/JSande2021/MemoryManagement_C/blob/main/C_Program_Hex_Conversion.png)
