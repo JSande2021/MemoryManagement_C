@@ -1,4 +1,4 @@
-# MemoryManagement Explanation in C
+# Memory Management and Deadlock Avoidance in C
 
 **Hexidecimal Conversion**
 ![Hex Conversion](https://github.com/JSande2021/MemoryManagement_C/blob/main/C_Program_Hex_Conversion.png)
