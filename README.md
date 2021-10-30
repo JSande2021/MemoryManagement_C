@@ -16,7 +16,7 @@
 
 **Deadlock Avoidance Flowchart**
 
-![]()
+![Deadlock Flowchart](https://github.com/JSande2021/MemoryManagement_C/blob/main/Deadlock%20Flowchart.png)
 
 **Deadlock Avoidance Fix with Bank Deposit Application**
 - My program creates a type of banker’s algorithm where there are two operations that deposit money into the bank and two operations that withdrawal money from the bank until they get their withdrawal limits to make the bank never run out of money. These limits for withdrawal were capped at $100,000 and the amount that was acceptable for the bank to close the day out with was $2,000,000. My code created a process that was able to accomplish both of these tasks by utilizing mutexes to keep the vital resources private for each operation and timers to make sure that each operation was not attempting to function over each other.  
